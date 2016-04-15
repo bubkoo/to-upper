@@ -1,6 +1,6 @@
 {
   "name": "to-upper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts string, as a whole, to upper case.",
   "main": "index.js",
   "scripts": {
@@ -25,13 +25,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/to-upper.git"
+    "url": "git+https://github.com/gearcase/to-upper.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bubkoo/to-upper/issues"
+    "url": "https://github.com/gearcase/to-upper/issues"
   },
-  "homepage": "https://github.com/bubkoo/to-upper#readme",
+  "homepage": "https://github.com/gearcase/to-upper#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
